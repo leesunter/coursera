@@ -1,0 +1,19 @@
+package greeter
+
+object HelloWS {
+  println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
+  val x = 2                                       //> x  : Int = 2
+  def increase(i: Int) = i + 1                    //> increase: (i: Int)Int
+  increase(x)                                     //> res0: Int = 3
+}
+
+
+object FactorialTest {
+  def factorial(n: Int): Int = {
+    def loop(acc: Int, n: Int): Int =
+      if (n == 0) acc
+      else loop(acc * n, n - 1)
+    loop(1, n)
+  }
+  factorial(4)
+}

@@ -1,0 +1,641 @@
+2015-09-15 15:06:15,063  WARN [ModalContext] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:06:15,079  WARN [ModalContext] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:06:38,413  WARN [Worker-8] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:06:38,444  WARN [Worker-8] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:06:54,772  WARN [Worker-8] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:06:54,772  WARN [Worker-8] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:06:54,803  WARN [Worker-8] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:06:54,803  WARN [Worker-8] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:07:00,766  WARN [main] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:07:00,766  WARN [main] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:07:07,388  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:07:07,388  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:07:07,469  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:07:07,469  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:07:07,812  WARN [Java indexing] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:07:07,812  WARN [Java indexing] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:07:08,670  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:07:08,670  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:07:09,825  WARN [Worker-7] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:07:09,825  WARN [Worker-7] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:07:09,856  WARN [Worker-7] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:07:09,856  WARN [Worker-7] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:07:12,353  WARN [Worker-7] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:07:12,353  WARN [Worker-7] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:08:50,350  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:08:50,350  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:08:50,366  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:08:50,366  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:08:50,881  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:08:50,881  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:09:30,068  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:09:30,068  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:09:30,084  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:09:30,084  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:09:30,583  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:09:30,583  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:10:02,091  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:10:02,091  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:10:02,106  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:10:02,106  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:10:02,137  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:10:02,137  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:10:23,407 ERROR [Worker-9] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-09-15 15:10:23,407 ERROR [Worker-9] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-09-15 15:10:23,407 ERROR [Worker-9] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-09-15 15:10:48,181  WARN [Worker-9] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:10:48,181  WARN [Worker-9] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:10:48,227  WARN [Worker-9] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:10:48,227  WARN [Worker-9] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:10:52,047  WARN [Worker-9] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:10:52,047  WARN [Worker-9] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:11:44,565  WARN [Worker-8] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:11:44,565  WARN [Worker-8] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:11:44,643  WARN [Worker-8] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:11:44,643  WARN [Worker-8] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:11:44,705  WARN [Worker-8] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:11:44,721  WARN [Worker-8] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:11:45,457  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:11:45,457  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:11:51,463  WARN [main] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:11:51,463  WARN [main] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:11:52,009  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:11:52,009  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:11:52,040  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:11:52,040  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:11:56,388  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:11:56,388  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:13:38,626  WARN [Worker-8] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:13:38,626  WARN [Worker-8] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:13:38,657  WARN [Worker-8] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:13:38,657  WARN [Worker-8] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:13:38,704  WARN [Worker-8] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:13:38,704  WARN [Worker-8] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:13:41,343  WARN [Worker-7] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:13:41,343  WARN [Worker-7] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:13:41,375  WARN [Worker-7] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:13:41,375  WARN [Worker-7] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:13:41,406  WARN [Worker-7] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:13:41,406  WARN [Worker-7] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:14:26,430  WARN [Worker-7] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:14:26,430  WARN [Worker-7] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:14:26,461  WARN [Worker-7] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:14:26,461  WARN [Worker-7] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:14:26,492  WARN [Worker-7] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:14:26,492  WARN [Worker-7] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:14:27,669  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:14:27,669  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:14:27,685  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:14:27,685  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:14:27,700  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:14:27,700  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:33,242  WARN [Worker-13] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:33,242  WARN [Worker-13] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:33,277  WARN [Worker-13] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:33,277  WARN [Worker-13] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:33,315  WARN [Worker-13] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:33,315  WARN [Worker-13] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:34,586  WARN [Worker-14] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:34,586  WARN [Worker-14] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:34,606  WARN [Worker-14] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:34,606  WARN [Worker-14] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:34,632  WARN [Worker-14] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:34,632  WARN [Worker-14] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:56,942  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:56,942  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:56,973  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:56,973  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:57,009  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:57,009  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:58,134  WARN [Worker-15] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:58,134  WARN [Worker-15] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:58,153  WARN [Worker-15] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:58,153  WARN [Worker-15] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:17:58,177  WARN [Worker-15] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:17:58,177  WARN [Worker-15] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:18:09,994  WARN [Worker-12] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:18:09,994  WARN [Worker-12] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:18:10,015  WARN [Worker-12] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:18:10,015  WARN [Worker-12] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:18:10,049  WARN [Worker-12] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:18:10,049  WARN [Worker-12] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:18:13,571  WARN [Worker-15] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:18:13,571  WARN [Worker-15] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:18:13,591  WARN [Worker-15] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:18:13,591  WARN [Worker-15] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:18:13,601  WARN [Worker-15] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:18:13,601  WARN [Worker-15] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:18:14,695  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:18:14,695  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:18:14,705  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:18:14,705  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:18:14,725  WARN [Worker-6] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:18:14,725  WARN [Worker-6] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:20:59,411  WARN [Worker-16] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:20:59,411  WARN [Worker-16] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:20:59,437  WARN [Worker-16] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:20:59,438  WARN [Worker-16] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:20:59,459  WARN [Worker-16] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-15 15:20:59,459  WARN [Worker-16] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-15 15:56:22,776  WARN [ModalContext] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 15:56:22,776  WARN [ModalContext] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 15:56:23,026  WARN [Worker-30] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 15:56:23,026  WARN [Worker-30] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 15:56:23,041  WARN [Worker-30] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 15:56:23,041  WARN [Worker-30] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 15:56:23,073  WARN [Worker-30] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 15:56:23,073  WARN [Worker-30] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 15:56:49,480  WARN [Worker-30] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 15:56:49,480  WARN [Worker-30] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 15:56:49,620  WARN [Worker-30] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 15:56:49,620  WARN [Worker-30] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 15:56:49,792  WARN [Java indexing] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 15:56:49,792  WARN [Java indexing] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 15:57:49,766 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-15 15:57:49,770 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-15 15:58:04,795  WARN [Worker-29] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 15:58:04,796  WARN [Worker-29] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 15:58:04,859  WARN [Worker-29] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 15:58:04,859  WARN [Worker-29] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:04:04,441  WARN [main] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:04:04,441  WARN [main] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:04:04,629  WARN [Worker-35] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:04:04,629  WARN [Worker-35] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:04:04,644  WARN [Worker-35] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:04:04,644  WARN [Worker-35] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:04:33,808  WARN [Worker-37] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:04:33,808  WARN [Worker-37] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:04:33,840  WARN [Worker-37] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:04:33,840  WARN [Worker-37] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:04:38,756  WARN [main] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:04:38,772  WARN [main] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:04:39,850  WARN [Worker-37] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:04:39,850  WARN [Worker-37] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:04:39,881  WARN [Worker-37] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:04:39,881  WARN [Worker-37] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:05:11,897  WARN [Worker-39] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:05:11,897  WARN [Worker-39] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:05:11,957  WARN [Worker-39] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:05:11,957  WARN [Worker-39] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:05:31,283  WARN [Worker-39] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:05:31,283  WARN [Worker-39] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:05:31,330  WARN [Worker-39] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:05:31,346  WARN [Worker-39] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:06:16,846  WARN [Worker-38] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:06:16,846  WARN [Worker-38] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:06:16,878  WARN [Worker-38] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:06:16,878  WARN [Worker-38] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:16:46,274  WARN [main] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:16:46,274  WARN [main] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:16:46,742  WARN [Worker-39] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:16:46,742  WARN [Worker-39] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:16:46,851  WARN [Worker-39] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:16:46,851  WARN [Worker-39] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:17:00,283  WARN [Worker-42] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:17:00,283  WARN [Worker-42] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:17:00,299  WARN [Worker-42] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-15 16:17:00,299  WARN [Worker-42] - ScalaProject - Project example runs on platform default installation.
+2015-09-15 16:23:39,322  WARN [ModalContext] - ScalaProject - Project progfun-recfun has platform default sourceLevel.
+2015-09-15 16:23:39,322  WARN [ModalContext] - ScalaProject - Project progfun-recfun runs on platform default installation.
+2015-09-15 16:23:39,346  WARN [ModalContext] - ScalaProject - Project progfun-recfun has platform default sourceLevel.
+2015-09-15 16:23:39,346  WARN [ModalContext] - ScalaProject - Project progfun-recfun runs on platform default installation.
+2015-09-15 16:23:39,578  WARN [ModalContext] - ScalaProject - Project progfun-recfun has platform default sourceLevel.
+2015-09-15 16:23:39,578  WARN [ModalContext] - ScalaProject - Project progfun-recfun runs on platform default installation.
+2015-09-15 16:23:39,809  WARN [Worker-41] - ScalaProject - Project progfun-recfun has platform default sourceLevel.
+2015-09-15 16:23:39,809  WARN [Worker-41] - ScalaProject - Project progfun-recfun runs on platform default installation.
+2015-09-15 16:23:40,017  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for progfun-recfun, setting default to 2.11.
+2015-09-15 16:23:40,019  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for progfun-recfun, setting default to 2.11.
+2015-09-15 16:31:10,454  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 322
+2015-09-15 16:32:49,397  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 322
+2015-09-15 16:33:10,422  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 322
+2015-09-15 16:33:17,995  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 327
+2015-09-15 16:33:47,612  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 327
+2015-09-15 16:34:23,486  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 327
+2015-09-15 16:40:56,595  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 16:43:16,185  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:06:49,362  WARN [ModalContext] - ScalaProject - Project recfun has platform default sourceLevel.
+2015-09-15 17:06:49,362  WARN [ModalContext] - ScalaProject - Project recfun runs on platform default installation.
+2015-09-15 17:06:49,611  WARN [ModalContext] - ScalaProject - Project recfun has platform default sourceLevel.
+2015-09-15 17:06:49,611  WARN [ModalContext] - ScalaProject - Project recfun runs on platform default installation.
+2015-09-15 17:06:51,125  WARN [ModalContext] - ScalaProject - Project recfun has platform default sourceLevel.
+2015-09-15 17:06:51,125  WARN [ModalContext] - ScalaProject - Project recfun runs on platform default installation.
+2015-09-15 17:06:51,593  WARN [Worker-1] - ScalaProject - Project recfun has platform default sourceLevel.
+2015-09-15 17:06:51,593  WARN [Worker-1] - ScalaProject - Project recfun runs on platform default installation.
+2015-09-15 17:06:52,217  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for recfun, setting default to 2.11.
+2015-09-15 17:06:52,232  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for recfun, setting default to 2.11.
+2015-09-15 17:10:50,360 ERROR [Worker-6] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-09-15 17:10:50,360 ERROR [Worker-6] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-09-15 17:10:50,360 ERROR [Worker-6] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-09-15 17:13:14,919  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:13:15,059 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - scala.tools.nsc.interactive.MissingResponse: response missing
+2015-09-15 17:13:15,418  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:13:15,496  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:13:15,886  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:14:04,874  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:14:04,921  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:14:04,921  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:14:05,280  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:14:25,825  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:14:31,784  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:14:32,034  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:24:45,590  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:24:45,855  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-15 17:24:46,167  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-16 09:50:07,068  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for recfun, setting default to 2.11.
+2015-09-16 09:50:07,090  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for recfun, setting default to 2.11.
+2015-09-16 09:59:37,985  WARN [Worker-6] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 09:59:37,992  WARN [Worker-6] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 09:59:41,015  WARN [Java indexing] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 09:59:41,016  WARN [Java indexing] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 10:32:32,405  WARN [Worker-10] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 10:32:32,406  WARN [Worker-10] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 10:32:32,485  WARN [Worker-10] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 10:32:32,485  WARN [Worker-10] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 10:32:32,791  WARN [Worker-10] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 10:32:32,791  WARN [Worker-10] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 10:38:09,907  WARN [Worker-9] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 10:38:09,907  WARN [Worker-9] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 10:38:09,985  WARN [Worker-9] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 10:38:09,985  WARN [Worker-9] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 10:38:19,486  WARN [Worker-12] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 10:38:19,486  WARN [Worker-12] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 10:38:19,564  WARN [Worker-12] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 10:38:19,564  WARN [Worker-12] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 10:39:02,917 ERROR [Worker-12] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-09-16 10:39:02,933 ERROR [Worker-12] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-09-16 10:39:02,933 ERROR [Worker-12] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-09-16 10:39:35,405 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 10:39:35,405 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 10:39:35,405 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 10:41:39,388  WARN [Worker-14] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:41:39,389  WARN [Worker-14] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:41:39,582  WARN [Worker-14] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:41:39,583  WARN [Worker-14] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:41:41,270  WARN [Java indexing] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:41:41,270  WARN [Java indexing] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:42:16,400  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:42:16,400  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:42:16,447  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:42:16,462  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:42:16,525  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:42:16,525  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:42:18,007  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:42:18,007  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:42:18,053  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:42:18,053  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:42:18,116  WARN [Worker-10] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:42:18,116  WARN [Worker-10] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:43:06,962  WARN [Worker-12] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:43:06,962  WARN [Worker-12] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:43:07,009  WARN [Worker-12] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:43:07,009  WARN [Worker-12] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:43:07,071  WARN [Worker-12] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:43:07,071  WARN [Worker-12] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:46:33,502  WARN [Worker-17] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 10:46:33,503  WARN [Worker-17] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 10:46:33,581  WARN [Worker-17] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 10:46:33,581  WARN [Worker-17] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 10:58:19,140  WARN [ModalContext] - ScalaProject - Project recitations has platform default sourceLevel.
+2015-09-16 10:58:19,141  WARN [ModalContext] - ScalaProject - Project recitations runs on platform default installation.
+2015-09-16 10:58:19,143  WARN [ModalContext] - ScalaProject - Project scratch has platform default sourceLevel.
+2015-09-16 10:58:19,143  WARN [ModalContext] - ScalaProject - Project scratch runs on platform default installation.
+2015-09-16 10:58:19,144  WARN [ModalContext] - ScalaProject - Project scratch has platform default sourceLevel.
+2015-09-16 10:58:19,144  WARN [ModalContext] - ScalaProject - Project scratch runs on platform default installation.
+2015-09-16 10:58:19,360  WARN [ModalContext] - ScalaProject - Project recitations has platform default sourceLevel.
+2015-09-16 10:58:19,361  WARN [ModalContext] - ScalaProject - Project recitations runs on platform default installation.
+2015-09-16 10:58:19,696  WARN [ModalContext] - ScalaProject - Project scratch has platform default sourceLevel.
+2015-09-16 10:58:19,696  WARN [ModalContext] - ScalaProject - Project scratch runs on platform default installation.
+2015-09-16 10:58:20,420  WARN [Worker-21] - ScalaProject - Project scratch has platform default sourceLevel.
+2015-09-16 10:58:20,421  WARN [Worker-21] - ScalaProject - Project scratch runs on platform default installation.
+2015-09-16 10:58:22,355  WARN [Worker-23] - ScalaProject - Project recitations has platform default sourceLevel.
+2015-09-16 10:58:22,356  WARN [Worker-23] - ScalaProject - Project recitations runs on platform default installation.
+2015-09-16 10:58:22,377  WARN [Worker-23] - ScalaProject - Project recitations has platform default sourceLevel.
+2015-09-16 10:58:22,377  WARN [Worker-23] - ScalaProject - Project recitations runs on platform default installation.
+2015-09-16 10:58:22,459  WARN [Worker-23] - ScalaProject - Project recitations has platform default sourceLevel.
+2015-09-16 10:58:22,459  WARN [Worker-23] - ScalaProject - Project recitations runs on platform default installation.
+2015-09-16 10:59:31,265  WARN [Worker-21] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:59:31,265  WARN [Worker-21] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:59:31,313  WARN [Worker-21] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:59:31,313  WARN [Worker-21] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 10:59:31,355  WARN [Worker-21] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 10:59:31,355  WARN [Worker-21] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 11:02:03,951  WARN [Worker-25] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 11:02:03,951  WARN [Worker-25] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 11:02:04,448  WARN [Worker-25] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 11:02:04,448  WARN [Worker-25] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 11:02:04,516  WARN [Worker-25] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 11:02:04,516  WARN [Worker-25] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 11:02:08,001  WARN [Worker-26] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 11:02:08,001  WARN [Worker-26] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 11:02:08,040  WARN [Worker-26] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 11:02:08,040  WARN [Worker-26] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 11:02:08,076  WARN [Worker-26] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 11:02:08,076  WARN [Worker-26] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 11:02:09,885  WARN [Worker-23] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 11:02:09,886  WARN [Worker-23] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 11:02:09,924  WARN [Worker-23] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 11:02:09,924  WARN [Worker-23] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 11:02:09,969  WARN [Worker-23] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-09-16 11:02:09,970  WARN [Worker-23] - ScalaProject - Project hello-project runs on platform default installation.
+2015-09-16 11:08:16,910  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-16 11:11:08,948 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 11:11:08,959 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 11:11:08,959 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 11:42:53,989 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 11:42:53,989 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 11:42:53,990 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 11:42:55,214  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-16 11:50:18,924 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 11:50:18,924 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 11:50:18,924 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 12:06:35,016  WARN [main] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-16 12:08:33,359  WARN [ModalContext] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 12:08:33,360  WARN [ModalContext] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 12:08:33,422  WARN [ModalContext] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 12:08:33,423  WARN [ModalContext] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 12:08:34,205  WARN [Worker-58] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 12:08:34,205  WARN [Worker-58] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 12:08:34,239  WARN [Worker-58] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 12:08:34,239  WARN [Worker-58] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 12:08:35,042  WARN [Java indexing] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 12:08:35,042  WARN [Java indexing] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 12:09:12,820  WARN [Worker-58] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 12:09:12,821  WARN [Worker-58] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 12:09:12,854  WARN [Worker-58] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 12:09:12,854  WARN [Worker-58] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 12:09:31,205  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-16 12:09:52,780  WARN [Worker-56] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 12:09:52,781  WARN [Worker-56] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 12:09:52,860  WARN [Worker-56] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 12:09:52,861  WARN [Worker-56] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 12:13:41,074  WARN [Worker-59] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 12:13:41,075  WARN [Worker-59] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 12:13:41,118  WARN [Worker-59] - ScalaProject - Project example has platform default sourceLevel.
+2015-09-16 12:13:41,118  WARN [Worker-59] - ScalaProject - Project example runs on platform default installation.
+2015-09-16 14:07:07,834 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:07:07,835 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:12:39,585 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:12:39,585 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:12:39,586 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,460 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,460 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,460 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,461 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,461 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,461 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,461 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,461 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,461 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,462 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,462 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,462 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,463 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,464 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,464 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,465 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,465 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,465 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,466 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,466 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,466 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,466 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,469 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,469 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,469 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,470 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,470 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:13:42,470 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:45:34,795 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:45:34,796 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:45:34,796 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-16 14:53:08,828  WARN [ModalContext] - ScalaProject - Project funsets has platform default sourceLevel.
+2015-09-16 14:53:08,829  WARN [ModalContext] - ScalaProject - Project funsets runs on platform default installation.
+2015-09-16 14:53:08,830  WARN [ModalContext] - ScalaProject - Project funsets has platform default sourceLevel.
+2015-09-16 14:53:08,830  WARN [ModalContext] - ScalaProject - Project funsets runs on platform default installation.
+2015-09-16 14:53:09,212  WARN [ModalContext] - ScalaProject - Project funsets has platform default sourceLevel.
+2015-09-16 14:53:09,212  WARN [ModalContext] - ScalaProject - Project funsets runs on platform default installation.
+2015-09-16 14:53:09,424  WARN [Worker-111] - ScalaProject - Project funsets has platform default sourceLevel.
+2015-09-16 14:53:09,424  WARN [Worker-111] - ScalaProject - Project funsets runs on platform default installation.
+2015-09-16 16:35:23,347  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-16 16:35:23,347  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-16 16:35:23,549  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-16 16:35:23,643  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-16 16:40:49,312  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-16 16:41:46,495  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-16 16:42:27,024  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:06:06,079  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for scratch, setting default to 2.11.
+2015-09-18 11:06:06,083  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for scratch, setting default to 2.11.
+2015-09-18 11:09:05,911  WARN [ModalContext] - ScalaProject - Project progfun-streams has platform default sourceLevel.
+2015-09-18 11:09:05,912  WARN [ModalContext] - ScalaProject - Project progfun-streams runs on platform default installation.
+2015-09-18 11:09:05,913  WARN [ModalContext] - ScalaProject - Project progfun-streams has platform default sourceLevel.
+2015-09-18 11:09:05,913  WARN [ModalContext] - ScalaProject - Project progfun-streams runs on platform default installation.
+2015-09-18 11:09:05,914  WARN [ModalContext] - ScalaProject - Project objsets has platform default sourceLevel.
+2015-09-18 11:09:05,914  WARN [ModalContext] - ScalaProject - Project objsets runs on platform default installation.
+2015-09-18 11:09:05,915  WARN [ModalContext] - ScalaProject - Project objsets has platform default sourceLevel.
+2015-09-18 11:09:05,915  WARN [ModalContext] - ScalaProject - Project objsets runs on platform default installation.
+2015-09-18 11:09:05,915  WARN [ModalContext] - ScalaProject - Project progfun-patmat has platform default sourceLevel.
+2015-09-18 11:09:05,915  WARN [ModalContext] - ScalaProject - Project progfun-patmat runs on platform default installation.
+2015-09-18 11:09:05,916  WARN [ModalContext] - ScalaProject - Project progfun-patmat has platform default sourceLevel.
+2015-09-18 11:09:05,916  WARN [ModalContext] - ScalaProject - Project progfun-patmat runs on platform default installation.
+2015-09-18 11:09:05,916  WARN [ModalContext] - ScalaProject - Project progfun-forcomp has platform default sourceLevel.
+2015-09-18 11:09:05,917  WARN [ModalContext] - ScalaProject - Project progfun-forcomp runs on platform default installation.
+2015-09-18 11:09:05,917  WARN [ModalContext] - ScalaProject - Project progfun-forcomp has platform default sourceLevel.
+2015-09-18 11:09:05,917  WARN [ModalContext] - ScalaProject - Project progfun-forcomp runs on platform default installation.
+2015-09-18 11:09:07,826  WARN [ModalContext] - ScalaProject - Project objsets has platform default sourceLevel.
+2015-09-18 11:09:07,827  WARN [ModalContext] - ScalaProject - Project objsets runs on platform default installation.
+2015-09-18 11:09:08,265  WARN [ModalContext] - ScalaProject - Project progfun-forcomp has platform default sourceLevel.
+2015-09-18 11:09:08,266  WARN [ModalContext] - ScalaProject - Project progfun-forcomp runs on platform default installation.
+2015-09-18 11:09:08,607  WARN [ModalContext] - ScalaProject - Project progfun-patmat has platform default sourceLevel.
+2015-09-18 11:09:08,608  WARN [ModalContext] - ScalaProject - Project progfun-patmat runs on platform default installation.
+2015-09-18 11:09:09,010  WARN [ModalContext] - ScalaProject - Project progfun-streams has platform default sourceLevel.
+2015-09-18 11:09:09,011  WARN [ModalContext] - ScalaProject - Project progfun-streams runs on platform default installation.
+2015-09-18 11:09:09,599  WARN [Worker-0] - ScalaProject - Project progfun-streams has platform default sourceLevel.
+2015-09-18 11:09:09,599  WARN [Worker-0] - ScalaProject - Project progfun-streams runs on platform default installation.
+2015-09-18 11:09:10,082  WARN [Worker-0] - ScalaProject - Project progfun-patmat has platform default sourceLevel.
+2015-09-18 11:09:10,083  WARN [Worker-0] - ScalaProject - Project progfun-patmat runs on platform default installation.
+2015-09-18 11:09:10,909  WARN [Worker-0] - ScalaProject - Project progfun-forcomp has platform default sourceLevel.
+2015-09-18 11:09:10,909  WARN [Worker-0] - ScalaProject - Project progfun-forcomp runs on platform default installation.
+2015-09-18 11:09:11,332  WARN [Worker-0] - ScalaProject - Project objsets has platform default sourceLevel.
+2015-09-18 11:09:11,332  WARN [Worker-0] - ScalaProject - Project objsets runs on platform default installation.
+2015-09-18 11:15:49,077 ERROR [Worker-11] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-09-18 11:15:49,118 ERROR [Worker-11] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-09-18 11:15:49,118 ERROR [Worker-11] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-09-18 11:27:13,008  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:27:13,062  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:28:51,255  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:28:51,566  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:33:35,690  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:33:35,906  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:33:36,331  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:33:38,919  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:26,835  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:26,839  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:26,849  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:26,902  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:26,903  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:27,040  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:27,050  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:27,105  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:27,105  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:27,189  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:27,248  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:27,250  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:27,307  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:34:27,391  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:41,744  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:41,837  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:41,882  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:41,986  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:41,999  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,000  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,055  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,085  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,111  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,152  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,220  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,223  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,256  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,266  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,372  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,383  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,394  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,446  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:42,449  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:46,771  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:46,815  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:46,882  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:46,894  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:46,983  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:46,983  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:47,103  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:47,150  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:47,187  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:39:47,353  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:41:04,445  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:50:31,474 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.reflect.internal.FatalError: ThisType(value <local BloxorzSuite>) for sym which is not a class
+	at scala.reflect.internal.Reporting$class.abort(Reporting.scala:59)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$ThisType.<init>(Types.scala:1167)
+	at scala.reflect.internal.Types$UniqueThisType.<init>(Types.scala:1187)
+	at scala.reflect.internal.Types$ThisType$.apply(Types.scala:1191)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$findMirrorSymbol(Global.scala:873)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:945)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:778)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:777)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:945)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:857)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:943)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:376)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2015-09-18 11:57:42,223  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:57:42,223  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:57:42,227  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:57:42,252  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:57:42,424  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:57:42,424  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:57:42,428  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:57:42,453  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:57:42,630  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:57:42,630  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 11:57:42,632  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,707 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,722 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,722 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,722 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,722 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,722 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,722 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,722 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,722 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,722 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:15:43,722 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-09-18 12:53:26,107  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for scratch, setting default to 2.11.
+2015-09-18 12:53:26,230  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for scratch, setting default to 2.11.

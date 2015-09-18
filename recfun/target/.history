@@ -1,0 +1,15 @@
+compile
+run
+test
+sbt eclipse
+exit
+console
+compile
+run
+test
+submit lee.sunter@atos.net BM6AUVeUCJ
+compile
+run
+test
+submit lee.sunter@atos.net BM6AUVeUCJ
+exit
